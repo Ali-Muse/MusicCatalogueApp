@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 public class MusicCatalogueApp {
 
     public static void main(String[] args) {
-        new MusicCatalogueApp();
+        new MusicCatalogueApp()
     }
 
 
